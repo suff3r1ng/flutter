@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
+![Dice](assets/images/dice-1.png)
 
 ## Getting Started
 
